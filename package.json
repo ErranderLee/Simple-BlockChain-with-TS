@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ErranderLee/Simple-BlockChain-with-TS#readme",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
   "devDependencies": {
     "tsc-watch": "^4.6.0"
   }
