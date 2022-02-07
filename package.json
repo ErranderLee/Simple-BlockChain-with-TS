@@ -1,0 +1,24 @@
+{
+  "name": "simple-blockchain-with-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc-watch --onSuccess \"node dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErranderLee/Simple-BlockChain-with-TS.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ErranderLee/Simple-BlockChain-with-TS/issues"
+  },
+  "homepage": "https://github.com/ErranderLee/Simple-BlockChain-with-TS#readme",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "tsc-watch": "^4.6.0"
+  }
+}
